@@ -23,10 +23,10 @@ It lets users search for a city, view a 7-day forecast, and check **hour-by-hour
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot![desktop-design-imperial](https://github.com/user-attachments/assets/bcc99764-c0b3-4567-ab07-f82492d0e690)
+s
 <!-- Add project screenshots here -->
-![App Screenshot](./screenshots/homepage.png)
-
+![App Screenshot](./)
 ---
 
 ## 🚀 Getting Started
