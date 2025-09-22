@@ -11,7 +11,6 @@ It lets users search for a city, view a 7-day forecast, and check **hour-by-hour
 - **Hourly Details** – Select a day to display temperature, humidity, “feels like,” wind speed, and precipitation for every hour.
 - **Unit Switching** – Toggle between Metric (°C, km/h, mm) and Imperial (°F, mph, in) units with a single click.
 - **Dynamic Icons** – Weather icons update automatically based on Open-Meteo weather codes.
-- **Responsive UI** – Built with Tailwind CSS to look great on mobile, tablet, and desktop.
 
 ---
 
@@ -25,8 +24,8 @@ It lets users search for a city, view a 7-day forecast, and check **hour-by-hour
 
 ## 📸 Screenshot!
 <!-- Add project screenshots here -->
-![App Screenshot][desktop-design-imperial]
-(https://github.com/user-attachments/assets/bcc99764-c0b3-4567-ab07-f82492d0e690)
+![desktop-design-imperial](https://github.com/user-attachments/assets/b46c2e6b-cfc6-4f58-a016-0f192e61cd7f)
+
 ---
 
 ## 🚀 Getting Started
